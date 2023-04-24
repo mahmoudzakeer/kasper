@@ -947,7 +947,7 @@ flex-basis: 25%;
 text-align: center;
 }
 @media (max-width: 767px) {
-    .contact .box {
+    .content .box {
       flex-direction: column;
     }
   }

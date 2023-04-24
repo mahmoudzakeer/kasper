@@ -320,7 +320,7 @@ margin-right: 50px;
     padding-top: var(--sp-padding);
     height: 600px;
     position: relative;
-    background-image: url(/image/galaxy-night.jpg);
+    background-image: url(../image/galaxy-night.jpg);
     background-size: cover;
     display: flex;
     overflow: hidden;
@@ -525,7 +525,7 @@ margin-bottom: 30px;
     padding-top: var(--sp-padding);
     padding-bottom: var(--sp-padding);
     text-align: center;
-    background-image: url(/image/stats.jpg);
+    background-image: url(../image/stats.jpg);
     background-size: cover;
     position: relative;
 }
@@ -713,7 +713,7 @@ margin-bottom: 40px;
 .quote {
     padding-top: var(--sp-padding);
     padding-bottom: var(--sp-padding);
-    background-image: url(/image/blue-ocean-water-meeting-with-beach-stones-high-quality-photo.jpg);
+    background-image: url(../image/blue-ocean-water-meeting-with-beach-stones-high-quality-photo.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
@@ -835,7 +835,7 @@ position: relative;
 .sub {
     padding-top: var(--sp-padding);
     padding-bottom: var(--sp-padding);
-    background-image: url(/image/spacecraft.jpg);
+    background-image: url(../image/spacecraft.jpg);
     background-size: cover;
     position: relative;
 }
@@ -970,7 +970,7 @@ flex-basis: 25%;
 .footer {
     padding-top: var(--sp-padding);
     padding-bottom: var(--sp-padding);
-    background-image:url(/image/destroyed-city.jpg) ;
+    background-image:url(../image/destroyed-city.jpg) ;
     background-size: cover;
     position: relative;
 }

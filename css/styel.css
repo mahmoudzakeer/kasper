@@ -946,9 +946,16 @@ background-color: rgb(0 0 0 / 55%);
 flex-basis: 25%;
 text-align: center;
 }
-@media (max-width: 767px) {
+@media (max-width:767px) {
     .content .box {
       flex-direction: column;
+    }
+    .content .info {
+        order: -1;
+        text-align: center;
+    }
+    .content .info address {
+        margin-bottom: 30px;
     }
   }
 .content .info h4 {
